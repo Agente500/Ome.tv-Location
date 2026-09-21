@@ -1,6 +1,6 @@
 (function() {
     'use strict';
-    var apiKey = "api-key-here";
+    var apiKey = "0b7d7aa258ae31";
     var regionNames = new Intl.DisplayNames(['en'], { type: 'region' });
 
     var addMessage = async (html) => {
